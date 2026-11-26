@@ -8,7 +8,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-pushkars17-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pushkars17)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pushkar_Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pushkar-sharma-80b587415)
 [![Kaggle](https://img.shields.io/badge/Kaggle-pushkars17-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/pushkars17)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0009--8326--2519-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-8326-2519)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0009--6257--3094-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-6257-3094)
 
 ---
 
